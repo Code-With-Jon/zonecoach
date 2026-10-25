@@ -1,6 +1,6 @@
-# ZoneCoach
+# Zonara
 
-Support and privacy pages for ZoneCoach – Heart Rate Coach (iPhone and Apple Watch).
+Support and privacy pages for Zonara Trainer – Fitness Coach (iPhone and Apple Watch).
 
 - [Support](https://code-with-jon.github.io/zonecoach/support.html)
 - [Privacy policy](https://code-with-jon.github.io/zonecoach/privacy.html)
